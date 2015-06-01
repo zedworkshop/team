@@ -25,7 +25,7 @@ Currently, projects involve creating and implementing [Wordpress](http://wordpre
 - [x] Must be able to commit to timelines
 - [x] Must be nice
 
-If you or someone you know might be interested, please contact me at adam@zedworkshop.com or [@zedworkshop](http://twitter.com/zedworkshop).
+If you or someone you know might be interested, please contact me, Adam Campbell, at adam@zedworkshop.com or [@zedworkshop](http://twitter.com/zedworkshop).
 
 
 
